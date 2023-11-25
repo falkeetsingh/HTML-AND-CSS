@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+}
+
+.txt1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.txt2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 8px;
+}
+
+.txt3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 15px;
+}
+
+.txt4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    margin-top: 15px;
+    line-height: 22px;
+}
+
+.txt5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.shop:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.macbook{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.new{
+    color:rgba(227, 65, 64,0.7); 
+    margin-top: 10px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+.mac{
+    font-weight: 700;
+    font-size:25px;
+}
+.sfp{
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.price{
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+button{
+    background-color: rgb(19, 117, 182);
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    margin-bottom: 50px;
+}
+
+.us{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.num{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.usd{
+    font-size: 15px;
+    color: rgb(108,117,125);
+    font-weight: 700;
+    margin-left: 5px;
+}
+.today{
+    color: rgb(17, 166, 17);
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.after{
+    color: rgba(108,117,125,0.7);
+    font-weight: 700;
+}
+.red{
+    color: rgb(229, 4, 4);
+}

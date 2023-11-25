@@ -1,0 +1,40 @@
+*{
+    /* border: 0; */
+}
+.amazon{
+    color: rgb(0, 113, 133);
+}
+
+.p1{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.p2{
+    color: rgb(0, 118, 0);
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.p3{
+    font-size: 18px;
+}
+
+.cart{
+    height: 30px;
+    width: 110px;
+    font-weight: 600;
+    background-color: rgb(255, 216, 20);
+    border-radius: 16px;
+    margin-right: 10px;
+    border: none;
+}
+
+.buy{
+    height: 30px;
+    width: 110px;
+    font-weight: 600;
+    background-color: rgb(255, 164, 28);
+    border-radius: 16px;
+    border: none;
+}
